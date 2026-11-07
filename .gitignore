@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Node.js (if used later)
+node_modules/
+
+# Editor files
+.vscode/
+
+# Temporary files
+*.log
