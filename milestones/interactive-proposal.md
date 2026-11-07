@@ -60,7 +60,7 @@ The first visual divides 100 coins into four wealth groups: Top 1%, Next 9%, Mid
 
 The second visual shows the same 100 coins divided into four age groups: 0–20, 20–40, 40–60, and 60+. The coins will move between groups when users switch categories.
 
-![Mockup of the proposed interactive visualization](images/sample.png)
+![Mockup of the proposed interactive visualization](../images/sample.png)
 
 ## Data Sources
 
